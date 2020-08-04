@@ -1,0 +1,6 @@
+* {box-sizing: border-box;}
+#forecast {
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+}
